@@ -1,4 +1,4 @@
-This repository is a resource list of voice tools with Linux support.
+This repository (Linux-Voice-Tech) is a resource list of voice tools with Linux support.
 
 This encompasses:
 

@@ -66,6 +66,7 @@ Projects with explicit Wayland support. Particularly valuable for users on moder
 | [**wayland-voice-dictation**](https://github.com/MasonRhodesDev/wayland-voice-dictation) | ![Stars](https://img.shields.io/github/stars/MasonRhodesDev/wayland-voice-dictation?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/MasonRhodesDev/wayland-voice-dictation?style=flat-square) | Voice dictation designed for Wayland |
 | [**whisper-wayland**](https://github.com/Andrewske/whisper-wayland) | ![Stars](https://img.shields.io/github/stars/Andrewske/whisper-wayland?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/Andrewske/whisper-wayland?style=flat-square) | Whisper integration for Wayland |
 | [**whispy**](https://github.com/daaku/whispy) | ![Stars](https://img.shields.io/github/stars/daaku/whispy?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/daaku/whispy?style=flat-square) | STT tool with Wayland support |
+| [**YazSes**](https://github.com/MSKazemi/yazses) | ![Stars](https://img.shields.io/github/stars/MSKazemi/yazses?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/MSKazemi/yazses?style=flat-square) | Hold-to-talk dictation daemon. faster-whisper, X11 + Wayland via ydotool, voice commands, speaker-labelled meeting capture. Linux, macOS, Windows |
 
 ---
 

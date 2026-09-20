@@ -53,6 +53,7 @@ Projects with explicit Wayland support. Particularly valuable for users on moder
 
 | Repository | Stars | Last Updated | Description |
 |------------|-------|--------------|-------------|
+| [**Cursay**](https://github.com/shadoprizm/cursay) | ![Stars](https://img.shields.io/github/stars/shadoprizm/cursay?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/shadoprizm/cursay?style=flat-square) | Local-first push-to-talk dictation for Ubuntu GNOME/Wayland using Faster Whisper, with automatic paste through the desktop portal |
 | [**dictation-tools**](https://github.com/gfreeau/dictation-tools) | ![Stars](https://img.shields.io/github/stars/gfreeau/dictation-tools?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/gfreeau/dictation-tools?style=flat-square) | Dictation tools with Wayland support |
 | [**freespeak**](https://github.com/Zetaphor/freespeak) | ![Stars](https://img.shields.io/github/stars/Zetaphor/freespeak?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/Zetaphor/freespeak?style=flat-square) | Voice dictation with Wayland support |
 | [**hyprvoice**](https://github.com/LeonardoTrapani/hyprvoice) | ![Stars](https://img.shields.io/github/stars/LeonardoTrapani/hyprvoice?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/LeonardoTrapani/hyprvoice?style=flat-square) | Voice dictation for Hyprland |

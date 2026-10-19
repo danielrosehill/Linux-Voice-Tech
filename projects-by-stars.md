@@ -10,7 +10,7 @@ All repositories from the Linux STT and Voice Assistants index, sorted by GitHub
 
 ## Summary
 
-- **Total Projects:** 135
+- **Total Projects:** 134
 - **Projects with 1000+ stars:** 32
 - **Projects with 100+ stars:** 48
 
@@ -154,7 +154,6 @@ All repositories from the Linux STT and Voice Assistants index, sorted by GitHub
 | 132 | [**wvcr**](https://github.com/bakeryproducts/wvcr) | 0 | Python | simple linux STT script with [optional] OAI postprocessing |
 | 133 | [**STT-Assistant-linux**](https://github.com/4lext/STT-Assistant-linux) | 0 | N/A | No description |
 | 134 | [**voicekeyboard**](https://github.com/sam1am/voicekeyboard) | 0 | Python | A STT keyboard for linux terminal. |
-| 135 | [**Deepgram-Voice-Keyboard-Ubuntu**](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu) | 0 | Shell | WIP to try to create a good STT utility with cloud STT APIs |
 
 ---
 

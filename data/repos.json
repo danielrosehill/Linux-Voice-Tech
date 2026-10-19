@@ -1633,22 +1633,6 @@
       "open_issues": 1,
       "in_readme": true
     },
-    "danielrosehill/Deepgram-Voice-Keyboard-Ubuntu": {
-      "name": "Deepgram-Voice-Keyboard-Ubuntu",
-      "owner": "danielrosehill",
-      "repo": "Deepgram-Voice-Keyboard-Ubuntu",
-      "url": "https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu",
-      "stars": 0,
-      "description": "WIP to try to create a good STT utility with cloud STT APIs",
-      "language": "Shell",
-      "archived": false,
-      "last_api_update": "2025-11-26T11:32:28.294711+00:00",
-      "last_updated": "2025-11-21T01:03:58Z",
-      "topics": [],
-      "forks": 0,
-      "open_issues": 0,
-      "in_readme": true
-    },
     "Zackriya-Solutions/meeting-minutes": {
       "name": "meeting-minutes",
       "owner": "Zackriya-Solutions",
@@ -2851,6 +2835,6 @@
   },
   "metadata": {
     "last_updated": "2025-11-26T11:32:54.423036+00:00",
-    "total_repos": 135
+    "total_repos": 134
   }
 }

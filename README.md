@@ -2,6 +2,8 @@
 
 ![alt text](banner.png)
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 ## An index of voice technology tools accessible to Linux users
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2029%2C%202026-blue?style=flat-square)
